@@ -13,7 +13,7 @@ To verify Norton’s theorem practically and theoretically for the given DC circ
 5.	Bread board	---	1
 6.	Multimeter	---	1
 
-**THEORY:**
+**THEORY:**b
 
 **NORTON’S THEOREM:**
 
